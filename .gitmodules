@@ -1,0 +1,16 @@
+[submodule "Phase1"]
+	path = Phase1
+	url = https://gitlab.com/CompilerFall96/Phase1.git
+	branch = master
+[submodule "Phase2"]
+	path = Phase2
+	url = https://gitlab.com/CompilerFall96/Phase2.git
+	branch = master
+[submodule "Phase3"]
+	path = Phase3
+	url = https://gitlab.com/CompilerFall96/Phase3.git
+	branch = master
+[submodule "Phase4"]
+	path = Phase4
+	url = https://gitlab.com/CompilerFall96/Phase4.git
+	branch = master
